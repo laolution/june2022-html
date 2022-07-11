@@ -1,0 +1,18 @@
+.target{
+    background: silver;
+    height: 400px;
+    width: 300px;
+    overflow: hidden;
+    box-sizing: border-box;
+    border: 10px solid blue;
+
+}
+.point{
+    width: 200px;
+    height: 200px;
+    background: blue;
+    margin: 10px 20px 30px 40px;
+padding: 30px;
+    box-sizing: border-box;
+}
+

@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7c01219-43cb-4076-a37c-67f232d90bac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework/Les 1 HW/img/Bart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Les 1 HW/img/Homer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Les 1 HW/img/Lisa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Les 1 HW/style.css" afterDir="false" />
+    <list default="true" id="e7c01219-43cb-4076-a37c-67f232d90bac" name="Changes" comment="add simpson">
+      <change afterPath="$PROJECT_DIR$/Homework/Les 2 HW/HW2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Les 2 HW/demo1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Les 2 HW/demo2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Les 2 HW/demo3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Les 2 HW/demostyle1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Les 2 HW/demostyle2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Les 2 HW/demostyle3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Les 2 HW/hwstyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework/Les 1 HW/Simpsons.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Les 1 HW/Simpsons.html" afterDir="false" />
     </list>
@@ -56,8 +60,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657304755537</updated>
-      <workItem from="1657304757433" duration="6212000" />
+      <workItem from="1657304757433" duration="21797000" />
     </task>
+    <task id="LOCAL-00001" summary="add simpson">
+      <created>1657319393627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657319393627</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +85,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add simpson" />
+    <option name="LAST_COMMIT_MESSAGE" value="add simpson" />
   </component>
 </project>
