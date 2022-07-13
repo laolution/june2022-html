@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7c01219-43cb-4076-a37c-67f232d90bac" name="Changes" comment="blue bloks">
-      <change afterPath="$PROJECT_DIR$/Homework/Les 2 HW/blue block.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Les 2 HW/bluestyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Les 2 HW/cards.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Les 2 HW/cardstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Les 2 HW/iconcard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Les 2 HW/iconcardstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Les 3 HW/demo/demo1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Les 3 HW/demo/demostyle1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Les 3 HW/hw1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Les 3 HW/hw1style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Les 3 HW/hw2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/Les 3 HW/hw2style.css" afterDir="false" />
+    <list default="true" id="e7c01219-43cb-4076-a37c-67f232d90bac" name="Changes" comment="change less2 and add blue page from less 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Les 2 HW/HW2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Les 2 HW/blueMY.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Les 2 HW/hwstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Les 2 HW/blueMYstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/Les 3 HW/hw1style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Les 3 HW/hw1style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/Les 3 HW/hw2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Les 3 HW/hw2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework/Les 3 HW/hw2style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Les 3 HW/hw2style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657304755537</updated>
-      <workItem from="1657304757433" duration="37034000" />
+      <workItem from="1657304757433" duration="43198000" />
     </task>
     <task id="LOCAL-00001" summary="add simpson">
       <created>1657319393627</created>
@@ -86,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657557469038</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change less2 and add blue page from less 3">
+      <created>1657729208529</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657729208530</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add simpson" />
     <MESSAGE value="blue bloks" />
-    <option name="LAST_COMMIT_MESSAGE" value="blue bloks" />
+    <MESSAGE value="change less2 and add blue page from less 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="change less2 and add blue page from less 3" />
   </component>
 </project>

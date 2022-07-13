@@ -70,7 +70,6 @@ font-size: 30px;
 .target {
     display: flex;
     justify-content: space-evenly;
-    width: 200px;
     height: 200px;
     position: absolute;
     bottom: -100px;
