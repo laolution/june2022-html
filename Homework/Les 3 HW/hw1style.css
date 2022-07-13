@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    color: white;
+}
+
+.father {
+    width: 1000px;
+    margin: auto;
+}
+
+.header {
+    background: silver;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn {
+    height: 100%;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+}
+
+.button{
+    height: 50px;
+    width: 150px;
+    background-color: #081357;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons {
+    height: 100%;
+    width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.fa-solid{ color: #081357;
+font-size: 30px;
+}
+
+.high {
+    height: 500px;
+    background: #081357;
+    display: flex;
+    position: relative;
+
+}
+
+.low {
+    background: darkgray;
+    height: 250px;
+}
+
+.box {
+    background: #05378c;
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.target {
+    display: flex;
+    justify-content: space-evenly;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: -100px;
+    width: 100%;
+}
