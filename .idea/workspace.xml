@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7c01219-43cb-4076-a37c-67f232d90bac" name="Changes" comment="change less2 and add blue page from less 3">
+    <list default="true" id="e7c01219-43cb-4076-a37c-67f232d90bac" name="Changes" comment="add hw3 2nd part">
+      <change afterPath="$PROJECT_DIR$/Homework/Les 4 HW/hw1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Les 4 HW/hw2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Les 4 HW/normal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Les 4 HW/stylehw1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/Les 4 HW/stylehw2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Les 3 HW/hw1style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Les 3 HW/hw1style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Les 3 HW/hw2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Les 3 HW/hw2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework/Les 3 HW/hw2style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework/Les 3 HW/hw2style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,15 +39,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\JS\june2022-html\Homework\Les 2 HW\demo" />
@@ -59,7 +61,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657304755537</updated>
-      <workItem from="1657304757433" duration="43198000" />
+      <workItem from="1657304757433" duration="43453000" />
+      <workItem from="1658147339878" duration="6941000" />
     </task>
     <task id="LOCAL-00001" summary="add simpson">
       <created>1657319393627</created>
@@ -82,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657729208530</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add hw3 2nd part">
+      <created>1657754223109</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657754223109</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +113,7 @@
     <MESSAGE value="add simpson" />
     <MESSAGE value="blue bloks" />
     <MESSAGE value="change less2 and add blue page from less 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="change less2 and add blue page from less 3" />
+    <MESSAGE value="add hw3 2nd part" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw3 2nd part" />
   </component>
 </project>
